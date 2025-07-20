@@ -1,4 +1,5 @@
 # Cortex-M crates
+# cargo xtask bindgen
 
 This repository contains various crates useful for writing Rust programs
 on Cortex-M microcontrollers:
