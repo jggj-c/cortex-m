@@ -9,7 +9,7 @@ documentation = "https://docs.rs/panic-itm"
 keywords = ["panic-impl", "panic-handler", "ITM", "ARM", "Cortex-M"]
 license = "MIT OR Apache-2.0"
 name = "panic-itm"
-repository = "https://github.com/rust-embedded/cortex-m"
+repository = "https://github.com/jggj-c/cortex-m"
 version = "0.4.2"
 edition = "2018"
 
